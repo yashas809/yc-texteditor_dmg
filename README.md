@@ -50,11 +50,6 @@ Open the `.dmg`, drag yc-editor to your Applications folder, and launch. No inst
 
 ---
 
-
-Requirements: [Node.js](https://nodejs.org) 18+, [Rust](https://rustup.rs) (for native builds)
-
----
-
 ## AI-First Repo
 
 This project was built using an **AI-first development methodology**. Rather than using AI to generate boilerplate, the entire workflow is structured around a living knowledge base:
